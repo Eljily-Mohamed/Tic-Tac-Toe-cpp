@@ -1,4 +1,6 @@
 # tic-tac-toe-C-
+    class player 
+    
     Initialisation du jeu (game_init) :
         Choix du symbole (le joueur choisit "o" et l'adversaire choisit "x").
         Initialisation de la table du jeu pour recommencer une partie sans tout recommencer depuis le début.
